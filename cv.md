@@ -18,7 +18,6 @@ I am developing services on React (Redux Toolkit, Material UI, Cytoscape.js, Ric
 - Git, GitLab, GitHub
 - Figma
 
-
 ## Code Examples
 
 ```sh
@@ -32,3 +31,7 @@ console.log(createPersonalHello(`Boris`)); # Hello, Boris
 
 ```
 
+## Work Experience
+
+- [internship at Digitalleague](https://github.com/Metwet/meetups-app)
+- [site for cinematographer](https://github.com/Metwet/cinematographer)
