@@ -19,5 +19,16 @@ I am developing services on React (Redux Toolkit, Material UI, Cytoscape.js, Ric
 - Figma
 
 
+## Code Examples
 
+```sh
+
+const createPersonalHello = (name?: string): string => {
+  return name ? `Hello, ${name}` : `Hello world!`
+};
+
+console.log(createPersonalHello()); # Hello world!
+console.log(createPersonalHello(`Boris`)); # Hello, Boris
+
+```
 
